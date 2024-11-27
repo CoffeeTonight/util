@@ -1,0 +1,4 @@
+; right click no the source trace -> view info -> can see source code matched -> changing sourse path
+sYmbol.SourcePATH.Translate "PATHDIR"
+; add directory to search source
+sYmbol.SourcePATH.SetRecurseDir "PATHDIR"
